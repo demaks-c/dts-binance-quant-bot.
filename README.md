@@ -1,1 +1,1 @@
-# dts-binance-quant-bot.
+# dts-quant-bot.
